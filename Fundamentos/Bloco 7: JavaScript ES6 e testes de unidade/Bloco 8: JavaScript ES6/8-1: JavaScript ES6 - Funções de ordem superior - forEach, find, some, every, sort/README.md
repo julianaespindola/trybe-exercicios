@@ -1,0 +1,1 @@
+#8-1: JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort

@@ -1,0 +1,1 @@
+#8-3: JavaScript ES6 - Funções de ordem superior - reduzir
