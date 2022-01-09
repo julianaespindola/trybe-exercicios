@@ -1,0 +1,23 @@
+.completed{
+    text-decoration:line-through solid rgb(0,0,0);
+}
+.selected{
+    background-color: rgb(128, 128, 128);
+}
+body{
+    background-color: #ffdbd7;
+}
+
+#funcionamento{
+    color: #9a5071;
+    font-size: 22px;
+}
+#title{
+    color:#ce7095;
+    font-size: 30px;
+}
+#lista-tarefas{
+    color: #ce7095;
+    font-size: 20px;
+    
+}
