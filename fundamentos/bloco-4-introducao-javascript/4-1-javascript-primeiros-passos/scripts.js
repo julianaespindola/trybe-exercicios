@@ -1,6 +1,9 @@
-const myName = "Juliana";
-const birthCity = "Campo Grande";
-const birthYear = 1988;
 
-//console.log (myName);
+const a = 12;
+const b = 7;
 
+console.log('Soma: ' + (a + b));
+console.log('Subtração: ' + (a - b));
+console.log('Multiplicação: ' + (a * b));
+console.log('Divisão: ' + (a / b));
+console.log('Módulo: ' + (a % b));
