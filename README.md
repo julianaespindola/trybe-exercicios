@@ -1,5 +1,5 @@
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Juliana Espindola (https://www.linkedin.com/in/julianaespindolaa/ 
-) enquanto estuda na Trybe (2021/2022) (https://www.betrybe.com/)
+) enquanto estuda na Trybe (2022) (https://www.betrybe.com/)
 
 “Trybe é a escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego.” 
 
